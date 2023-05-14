@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Shruthi23/shruthi23.github.io/static/css/main.2fed8ffd.css",
-    "main.js": "/Shruthi23/shruthi23.github.io/static/js/main.739d67b9.js",
-    "static/js/787.128fc6e9.chunk.js": "/Shruthi23/shruthi23.github.io/static/js/787.128fc6e9.chunk.js",
-    "static/media/RobotoSlab-Bold.ttf": "/Shruthi23/shruthi23.github.io/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
-    "static/media/RobotoSlab-Regular.ttf": "/Shruthi23/shruthi23.github.io/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
-    "static/media/logo.svg": "/Shruthi23/shruthi23.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Shruthi23/shruthi23.github.io/index.html",
-    "main.2fed8ffd.css.map": "/Shruthi23/shruthi23.github.io/static/css/main.2fed8ffd.css.map",
-    "main.739d67b9.js.map": "/Shruthi23/shruthi23.github.io/static/js/main.739d67b9.js.map",
-    "787.128fc6e9.chunk.js.map": "/Shruthi23/shruthi23.github.io/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/static/css/main.e40fe423.css",
+    "main.js": "/static/js/main.550a681f.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/RobotoSlab-Bold.ttf": "/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
+    "static/media/RobotoSlab-Regular.ttf": "/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.e40fe423.css.map": "/static/css/main.e40fe423.css.map",
+    "main.550a681f.js.map": "/static/js/main.550a681f.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fed8ffd.css",
-    "static/js/main.739d67b9.js"
+    "static/css/main.e40fe423.css",
+    "static/js/main.550a681f.js"
   ]
 }
