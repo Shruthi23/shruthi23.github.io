@@ -1,0 +1,33 @@
+.navbar {
+  background: linear-gradient(to bottom, #1c1c1c, #353535);
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position:fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+   
+  }
+  
+  .nav-list {
+    display: flex;
+    list-style-type: none;
+  
+  
+  }
+  
+  .nav-list li {
+    margin-right: 10px;
+
+  }
+  
+  .nav-list li a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0px 20px 0px 20px;
+  }
+  
+  
